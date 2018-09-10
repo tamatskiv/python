@@ -7,9 +7,3 @@ weight = input('Enter your weight: ')
 bmi = float(weight) / (float(height)**2)
 
 print('Your BMI: ', bmi)
-
-
-
-
-
-
